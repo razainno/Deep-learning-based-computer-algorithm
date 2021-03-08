@@ -1,1 +1,1 @@
-##Labeling Land: Land Use Classification using Convolutional Neural Networks
+#Labeling Land: Land Use Classification using Convolutional Neural Networks
